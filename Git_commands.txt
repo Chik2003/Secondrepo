@@ -1,0 +1,16 @@
+1. git init -> it is use to initialize the git repository. when we run this command a magical folder is created named .git that will start tracking if any changes start making in repo.
+
+2. git add . -> it is a wildcard character which is used to add any new folder or file in repository.
+
+3. git commit -m "Message" -> This will save/commit all the changes we have done in the repository with a meaningful message.
+
+4. git status -> it will give all the status about a file. else it created, it added, it change or it pushed.
+
+5. git log -> 
+
+6. git add remote origin Server_Repo_URL -> this command is use to push all local files to server for the first time.
+
+7. git push -u origin master -> this command is use to push local files to server.
+
+8. git clone Server_Repo_URL -> this command will help you to make a clone or dupilicate of any Excisting repo.
+
